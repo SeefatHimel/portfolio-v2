@@ -1,0 +1,17 @@
+
+#header .profile .twitter img{
+    
+    border: none;
+    position: relative;
+    bottom: 14px;
+    margin: 18px 6px;
+    max-width: 60%;
+    padding: 0px;
+}
+#header .profile .social-links #gith{
+    margin-bottom: -10.6px;
+    overflow: hidden;
+    margin-top: 10px;
+    padding-top: 3px;
+    padding-left: 1px;
+}
